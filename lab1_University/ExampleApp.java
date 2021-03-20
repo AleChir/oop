@@ -33,5 +33,7 @@ public class ExampleApp {
 		System.out.println(poli.studyPlan(s2));
 		// 10,Macro Economics,Paul Krugman
 		// 11,Object Oriented Programming,Marco Torchiano
+	
 	}
+
 }
